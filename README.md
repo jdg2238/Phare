@@ -1,2 +1,2 @@
 # Phare
-Phare Project
+Phare Project v1
