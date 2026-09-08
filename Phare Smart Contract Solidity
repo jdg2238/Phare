@@ -1,1 +1,3 @@
-# Phare smart contract code 
+# Phare smart contract code
+
+The Solidity sources now live in `src/` — see `README.md` for the contract map, invariant coverage and build instructions.
